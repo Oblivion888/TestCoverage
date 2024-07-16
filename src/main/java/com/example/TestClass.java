@@ -1,8 +1,8 @@
-//package com.example;
-//
-//public class TestClass {
-//    public int sum(int a, int b) {
-//        return a + b;
-//    }
-//}
-//
+package com.example;
+
+public class TestClass {
+    public int sum(int a, int b) {
+        return a + b;
+    }
+}
+
